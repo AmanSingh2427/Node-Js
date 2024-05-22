@@ -4,16 +4,16 @@
       "first_name": "Rahul ",
       "last_name": "Cheng",
       "email": "rahul@gamil.com",
-      "gender": "Female",
-      "job_title": "Account Coordinator"
+      "gender": "Male",
+      "job_title": "Data Analytics"
     },
     {
       "id": 2,
-      "first_name": "Randall",
-      "last_name": "Haston",
-      "email": "rhaston1@usda.gov",
+      "first_name": "Aman",
+      "last_name": "Singh",
+      "email": "aman@gmail.com",
       "gender": "Male",
-      "job_title": "Staff Scientist"
+      "job_title": "Software Developer"
     },
     {
       "id": 3,
