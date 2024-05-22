@@ -7987,10 +7987,7 @@
     "id": 999,
     "first_name": "Akash",
     "last_name": "Kumar",
-    "email": [
-      "girl@gamil.com?id=1000",
-      "akasn@gmail.com"
-    ],
+    "email": "girl@gamil.com",
     "gender": "Male",
     "job_title": "swe"
   },
@@ -8038,5 +8035,21 @@
     "email": "aman@gmail.com",
     "gender": "Male",
     "job_title": "swe 291"
+  },
+  {
+    "first_name": "Abhay",
+    "last_name": "Singh",
+    "email": "abhay@gmail.com",
+    "gender": "Male",
+    "job_title": "Software Developer",
+    "id": 1005
+  },
+  {
+    "first_name": "Abhay",
+    "last_name": "Singh",
+    "email": "abhay@gmail.com",
+    "gender": "Male",
+    "job_title": "Software Developer",
+    "id": 1006
   }
 ]
